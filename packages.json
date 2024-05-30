@@ -1,0 +1,14 @@
+{
+    "name": "My Collection",
+    "packages": [
+        {
+            "url": "https://githubfast.com/Alamofire/Alamofire.git"
+        },
+        {
+            "url": "https://githubfast.com/tristanhimmelman/ObjectMapper.git"
+        },
+        {
+            "url": "https://githubfast.com/EFPrefix/EFQRCode.git"
+        }
+    ]
+}
